@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="GeoPoint.h" />
+    <ClInclude Include="Hotel.h" />
     <ClInclude Include="SemantiquePoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GeoPoint.cpp" />
+    <ClCompile Include="Hotel.cpp" />
     <ClCompile Include="SemantiquePoint.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
